@@ -1,0 +1,119 @@
+resume_data:
+  title: "CV Dennis Van Brusselen"
+  name: "Dennis Van Brusselen"
+  job_title: "Linux System Engineer"
+  address: "Hasselt, Belgium"
+  mail: "dvbrusselen [at] pm.me"
+  phone: "+32 465 07 32 82"
+  about_me: 
+    - I am a dedicated Linux Engineer with a deep passion for technology and a strong focus on open-source solutions. 
+    - Solid background in managing and optimizing Linux-based systems, I bring a wealth of experience in ensuring the stability, security, and performance of mission-critical infrastructure.
+    - My enthusiasm for Python programming goes hand-in-hand with my Linux expertise. 
+    - I thrive on creating efficient and automated solutions, leveraging Python to streamline processes and improve system management.
+    - I am excited to continue my journey in the ever-evolving landscape of technology, combining my Linux expertise, Python proficiency, containerization skills, and Ansible automation to drive innovation and create robust solutions.
+  skills:
+    - name: "Linux Administration (RHEL, CentOS, Ubuntu)"
+      percentage: 90
+    - name: "Ansible Automation"
+      percentage: 85
+    - name: "F5 Local Traffic Manager"
+      percentage: 80
+    - name: "Python Scripting"
+      percentage: 80
+    - name: "System Monitoring and Performance Tuning"
+      percentage: 85
+    - name: "Network Configuration and Troubleshooting"
+      percentage: 80
+    - name: "Docker and Container Orchestration (e.g., Kubernetes, Rancher, Openshift)"
+      percentage: 75
+    - name: "Virtualization Technologies (e.g., VMware, KVM, OpenVZ)"
+      percentage: 75
+    - name: "Configuration Management (Ansible, Ansible Tower & AWX)"
+      percentage: 85
+    - name: "Version Control Systems (Git)"
+      percentage: 70
+    - name: "Security and Firewall Configuration (iptables, firewalld)"
+      percentage: 75
+    - name: "System Backup and Recovery Solutions"
+      percentage: 75
+    - name: "Web Server Administration (e.g., Apache, Nginx)"
+      percentage: 75
+    - name: "SNMP and Monitoring Tools (e.g., Nagios, Zabbix, CheckMK)"
+      percentage: 80
+    - name: "Database Administration (MySQL, PostgreSQL, MongoDB)"
+      percentage: 70
+    - name: "SSL/TLS Certificate Management"
+      percentage: 75
+    - name: "Log Management and Analysis (ELK Stack, Splunk)"
+      percentage: 75
+  languages:
+    - name: "Dutch"
+      level: "Fluent"
+    - name: "English"
+      level: "Fluent"
+  work_experience:
+    - job_title: "Linux System Engineer @ Piros"
+      from: "January 2021"
+      to: "Present"
+      description: 
+        - Manage and maintain a diverse infrastructure consisting of over 200 Linux-based virtual machines (VMs).
+        - Configure and optimize F5 load balancers and reverse proxies to ensure high availability and efficient traffic routing.
+        - Implement and manage infrastructure automation using Ansible, streamlining routine tasks and improving efficiency.
+        - Lead automation and monitoring projects, utilizing tools like Grafana and Prometheus for improved system visibility and performance tracking.
+    - job_title: "Technical Lead @ UCX"
+      from: "2017"
+      to: "2020"
+      description: 
+        - Design, Configuration & administration of complete Cloud PBX infrastructure.
+        - 3rd line technical support.
+        - Software development in Python ( Flask, REST, integration projects, ..)
+        - Pre-sales: assist sales team to technically position the solutions to customers.
+
+    - job_title: "Telecom / DevOps engineer @ Telsmart"
+      from: "2015"
+      to: "2017"
+      description: 
+        - Technical support
+        - VoIP engineering
+        - Software development in Python ( Flask, REST, integration projects, ..)
+
+    - job_title: "Telecom support engineer @ Ergatel"
+      from: "2013"
+      to: "2015"
+      description: 
+        - 2nd + 3rd line Technical support ( Data & Voice )
+        - VoIP administration in Broadsoft (Broadworks)
+
+    - job_title: "IT Consultant @ Osiatis (Econocom)"
+      from: "2012"
+      to: "2013"
+      description: 
+        - Remote support / service desk position @ AUDI BRUSSELS
+
+    - job_title: "Telecom Field Engineer"
+      from: "2009"
+      to: "2012"
+      description: "Installation Business Proximus (Cisco)"
+      from: "2020"
+      to: "2021"
+      description: 
+        - Design, configuration & administration of complex integrzted voip solutions
+        - API integrations (Python Flask)
+        - Monitoring projects (Grafana, Prometheus)        
+  education:
+    - degree: "Graduate in Telecommunication Engineering"
+      school: "Group T"
+      date_range: "2014 - 2018"
+      description: 
+        - Studied a comprehensive curriculum in Telecommunication Engineering,
+        - including courses in network design, signal processing, and communication protocols.
+        - Completed a thesis on the topic of "Advanced Wireless Communication Systems."
+    - degree: "2600Hz training"
+      school: "2600Hz San Francisco"
+      date_range: "Serveral weeks in 2015-2016"
+      description:  
+        - Advanced Telephony Solutions with Kamailio.
+        - Covered advanced topics in Kamailio, including SIP routing, load balancing, and high availability solutions.
+        - Implemented real-world scenarios for telephony deployments.
+        - Explored the intricacies of FreeSWITCH for building robust VoIP telephony systems.
+        
